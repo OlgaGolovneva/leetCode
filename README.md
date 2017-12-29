@@ -9,11 +9,13 @@ Given:
 beginWord = "hit"
 endWord = "cog"
 wordList = ["hot","dot","dog","lot","log","cog"]
+
 Return
   [
     ["hit","hot","dot","dog","cog"],
     ["hit","hot","lot","log","cog"]
   ]
+
 Note:
 - Return an empty list if there is no such transformation sequence.
 - All words have the same length.
